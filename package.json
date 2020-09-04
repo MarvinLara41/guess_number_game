@@ -1,0 +1,19 @@
+{
+  "name": "guess_number_game",
+  "version": "1.0.0",
+  "description": "A guess a number game created in react-native",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarvinLara41/guess_number_game.git"
+  },
+  "author": "Marvin Lara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarvinLara41/guess_number_game/issues"
+  },
+  "homepage": "https://github.com/MarvinLara41/guess_number_game#readme"
+}
